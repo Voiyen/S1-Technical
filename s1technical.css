@@ -1,0 +1,47 @@
+body {
+	background-color: #000080;
+	color: #ffffff;
+	font-family: Segoe UI;
+	font-size: 20px;
+}
+.container {
+	max-width: 1000px;
+	margin: auto;
+	padding: 50px;
+	border-radius: 20px;
+}
+.container education {
+	margin-bottom: 20px;
+	text-align: justify;
+	line-height: 1.5;
+	text-align: left;
+	font-size: 20px;
+}
+.container skills {
+	margin-bottom: 20px;
+	text-align: justify;
+	line-height: 1.5;
+	text-align: left;
+	font-size: 20px;
+}
+.container languages {
+	margin-bottom: 20px;
+	text-align: justify;
+	line-height: 1.5;
+	text-align: left;
+	font-size: 20px;
+}
+.container honours and awards {
+	margin-bottom: 20px;
+	text-align: justify;
+	line-height: 1.5;
+	text-align: left;
+	font-size: 20px;
+}
+.container interests {
+	margin-bottom: 20px;
+	text-align: justify;
+	line-height: 1.5;
+	text-align: left;
+	font-size: 20px;
+}
